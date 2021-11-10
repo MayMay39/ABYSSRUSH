@@ -1,13 +1,11 @@
-# TRAVERSING THROUGH THE ABYSS
+# Traversing through the ABYSS
 
-Hai! ABYSSRUSH is the first project of my new game dev career. It's a game involving a legendary group of adventurers and a hellish dimension. In order to escape said realm, the crew must reunite by following the zeroes of guidance and seal the gateway they opened. 
+## Information
 
-It's a pretty awesome game, I hope you'll check it out on https://maymay39.itch.io/abyssrush. What's it about?
+ABYSS • RUSH is my first project with some \*decent\* effort put into it. It's a retro style shoot 'em up game, with over 250 areas to traverse throughout the first five worlds. Each chapter has a new character to play as, with altered movement and a new type of ammunition. The objective of the game is quite simple: **Collect the zeroes.**
 
-# ABOUT ABYSSRUSH
+Why zeroes, you ask? Let's back up a bit. A group of legendary adventurers named *Team Impossible* have gotten themselves (and posibly the whole world) into a pickle. You see, they touched a relic dropped by god himself that opens the gateway between his **new world** and his **old world**. Between the two worlds is a hellsh alternate reality dubbed **Paraslixox**. When Team Impossible gets lost in this world, it's up to each member of the crew to reach the center of Paraslixox to reunite - by following the zeroes of guidance.
 
-Shoot through 5 chapters with unique new enemies, shooting techniques, and characters. Each area uses 4 colors from the Color Graphics Adapter palette by IBM in celebration of it's 40th anniversary. The first 5 chapters have 49 stages and 1 boss stage each, while the last one - It's a bit of a doozy, I wouldn't want to spoil it.
+Zeroes are cool thingamagigs that take you to the center of the world, serving as Team Impossible's navigator. Each member of the team must follow the zeroes while fending for themselves against blocks, circles, maybe even a tree perhaps. 
 
-The controls are easy to use but hard to master, and enemies can be difficult to dodge. There is little to no luck required, only skill. While each character controls the same way, their movement speed, rotation speed, and shooting weapon differ each chapter to provide an interesting experience.
-
-So how about it? If you haven't played it before, now's the time. You can get sprites and such from this repository for fan content, just credit my development studio Dino's Cove if you use them. The Music is by Chris Chudly and Chris Mann, so please credit them instead of us if you use their music as they do not work with Dino's Cove and are not affiliated with us in any way. Thanks for reading this, and have a good day!
+Can you make it through the dimension and seal the gateway to Paraslixox? Good luck. Try this feat at https://maymay39.itch.io/abyssrush.
